@@ -97,4 +97,4 @@ $ sudo dnf install -y atom.x86_64.rpm
 ```
 
 ##[Siguiente](PAGE2.md)
-##[Index](README.md)
+##[Pagina principal](README.md)
