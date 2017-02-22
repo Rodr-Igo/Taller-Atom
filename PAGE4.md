@@ -15,3 +15,22 @@ La paqueteria TODO-Show revela los comentarios hechos en los proyectos que conte
   ![PaqueteTODO](Images/TODO-Show.png)
 
 ## Minimap
+
+  La paqueteria Minimap muestra  del codigo
+
+  ![PaqueteMinimap](Images/minimap.png)
+
+## Highlight Selected
+
+  Esta paqueteria marca todas las palabras clave o variables en la cual este el puntero.
+
+  ![PaqueteHigh](Images/High.png)
+
+## Linter
+
+  Existe una gran variedad de paquetes linter para cada lenguaje de programación
+
+  ![PaqueteLinter](Images/Linter.gif)
+
+  ##[Anterior](PAGE3.md) 
+  ##[Pagina principal](README.md)
