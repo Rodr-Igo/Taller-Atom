@@ -1,7 +1,7 @@
 # Conoce Atom - El Editor de texto de GitHub 
 
-![Logo Atom](Images/atom.logo.jpg)
-Este es el taaller que se llevara acaba el dia 22 de febrero
+![Logo Atom](Images/atom-logo.jpg)
+Este es el taller que se llevara acaba el dia 22 de febrero
 
 ## Descripción 
 Este esta hecho para dar a conocer el editor de texto hecho por GitHub al igual que para enseñar 
