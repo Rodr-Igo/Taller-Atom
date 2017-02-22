@@ -1,4 +1,5 @@
-# Instalación de Add-Ons para Atom
+#
+
 
 Existen dos maneras de instalar Add-Ons en Atom.
 
