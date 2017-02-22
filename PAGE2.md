@@ -16,7 +16,7 @@ Existen dos maneras de instalar Add-Ons en Atom.
 
 * Al igual puedes instalar paquetes por medio del simbolo del Sistema
 
-![CMD](Images/cmd.png)
+![CMD](Images/cmd.PNG)
 
   Nos dirigimos a la carpeta en de configuración de Atom
 
