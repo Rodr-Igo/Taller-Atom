@@ -7,3 +7,14 @@ Este es el taller que se llevara acaba el dia 22 de febrero
 ## Descripción 
 Este esta hecho para dar a conocer el editor de texto hecho por GitHub al igual que para enseñar 
 las utilidades que tiene este para las diferentes tareas a la hora de programar.
+
+## Objetivos
+* Configurar Atom (Esto incluye como linkear a los repositorios remotos).
+* Instalación y configuración de addons.
+* Enseñanza del uso de los addons.
+* Solucionar problemas durante el uso de los addons.
+
+# Temas
+
+
+## [Siguiente](PAGE1.md)
