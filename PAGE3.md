@@ -39,3 +39,6 @@ Tendras que instalar [MinGW](http://www.mingw.org/) y [agregarlo a tu PATH](http
 ### Mac
 
 Tendras que instalar [XCode](https://developer.apple.com/xcode/).
+
+##[Anterior](PAGE2.md) - - [Siguiente](PAGE4.md)
+##[Pagina principal](README.md)
