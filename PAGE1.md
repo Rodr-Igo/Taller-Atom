@@ -27,7 +27,7 @@ y simplemente lo instalamos.
   ```
   C:\Users\%Usuario%
    ```
-![AtomGif](/Images/windows.gif)
+![AtomGif](Images/windows.gif)
 
 
 ## Mac
