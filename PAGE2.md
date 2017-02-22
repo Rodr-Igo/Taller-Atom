@@ -1,5 +1,4 @@
-#
-
+# Instalación de Add-Ons para Atom
 
 Existen dos maneras de instalar Add-Ons en Atom.
 
@@ -12,7 +11,6 @@ Existen dos maneras de instalar Add-Ons en Atom.
   Despues estaremos en la parte de instalacion de paquetes  
 
   ![Package](Images/open-recent.PNG)
-
 
 
 * Al igual puedes instalar paquetes por medio del simbolo del Sistema
