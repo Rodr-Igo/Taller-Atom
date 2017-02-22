@@ -1,6 +1,7 @@
 # Configuración e Instalación de Atom
 
-Descargamos Atom para nuestro Sistema Operativo:
+Descargamos Atom para nuestro Sistema Operativo
+
 
 ## Windows
 Para la instalación de Atom en windows necesitamos el .exe:
@@ -26,6 +27,8 @@ y simplemente lo instalamos.
   ```
   C:\Users\%Usuario%
    ```
+![AtomGif](/Images/windows.gif)
+
 
 ## Mac
 * Descargamos el ![Atom para Mac](https://github.com/atom/atom/releases/download/v1.14.3/atom-mac.zip)
