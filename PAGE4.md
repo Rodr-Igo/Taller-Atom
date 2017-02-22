@@ -32,5 +32,5 @@ La paqueteria TODO-Show revela los comentarios hechos en los proyectos que conte
 
   ![PaqueteLinter](Images/Linter.gif)
 
-  ##[Anterior](PAGE3.md) 
+  ##[Anterior](PAGE3.md)
   ##[Pagina principal](README.md)
