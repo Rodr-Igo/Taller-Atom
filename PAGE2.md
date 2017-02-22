@@ -6,11 +6,11 @@ Existen dos maneras de instalar Add-Ons en Atom.
 
   Presionando ``` ctrl + shift + P ``` y escribiendo ```Setting View: Install Package and Theme```
 
-  ![InstallPackage](Images/Install-Package.png)
+  ![InstallPackage](Images/Install-Package.PNG)
 
   Despues estaremos en la parte de instalacion de paquetes  
 
-  ![Package](Images/open-recent.png)
+  ![Package](Images/open-recent.PNG)
 
 
 
@@ -24,6 +24,6 @@ Existen dos maneras de instalar Add-Ons en Atom.
   cd  .atom
   apm install  %nombredelpaquete%
   ```
-![installopen](Images/apminstall.png)
+![installopen](Images/apminstall.PNG)
 
 #
