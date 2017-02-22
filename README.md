@@ -15,6 +15,6 @@ las utilidades que tiene este para las diferentes tareas a la hora de programar.
 * Solucionar problemas durante el uso de los addons.
 
 # Temas
-* [Instalación y configuración](/Taller-Atom/PAGE1.md)
+* [Instalación y configuración](PAGE1.md)
 
 ## [Siguiente](PAGE1.md)
